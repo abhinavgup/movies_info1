@@ -1,0 +1,495 @@
+body{
+    background-color: #0c0b21;
+ 
+}
+
+
+.nav{
+    border-bottom: solid 1px;
+}
+
+
+
+a{
+   
+    color: aliceblue;
+    /* left:20px; */
+    /* margin:-2px; */
+}
+
+#w{
+
+background-color:red;
+
+}
+
+.as{
+    position: relative;
+    top:30px;
+}
+
+img{
+    position: relative;
+    top:40px;
+    height:300px;
+    width:100%;
+}
+
+/* h1{
+    position: relative;
+    top:-40px;
+} */
+
+
+#q{
+    color: #ff1744;
+    font-size: 40px;
+    font-weight: 300;
+    display:block;
+}
+
+#e{
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 60px;
+    text-transform: uppercase;
+    color: white;
+    display: block;
+}
+
+#q{
+
+position: relative;
+top:-380px;
+left: 530px;
+
+}
+
+#e{
+    position: relative;
+top:-390px;
+left:450px;
+
+}
+.search-signup {
+    
+}
+
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+.search-input-box {
+    border: 1px solid #3d3c4d;
+    border-radius: 25px;
+    display: inline-block;
+    height: 42px;
+    line-height: 40px;
+    position: relative;
+}
+.search-input-box input[type="text"] {
+    background: transparent none repeat scroll 0 0;
+    border: 0 none;
+    color: #ffffff;
+    min-width: 502px;
+    
+}
+
+.search-input-box button {
+    background: transparent none repeat scroll 0 0;
+    border-color: transparent transparent transparent #3d3c4d;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    height: 24px;
+    line-height: 24px;
+  
+    padding: 0 15px;
+}
+.search{
+
+    text-align: center;
+}
+
+/* .as{
+    background-color: #252438;
+    position: relative;
+    top:2px;
+    height:30px;
+}
+
+#ab{
+    position: relative;
+    top:-60px;
+    background-color: #252438;
+} */
+
+.fas {
+    font-weight: 900;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+.search-input-box{
+
+    position: relative;
+    top:20px;
+}
+
+p{
+    color: #ffffff;
+    position: relative;
+    top:-280px;
+    left:280px;
+    font-size: 20px;
+}
+
+/* #display  img{
+ 
+    width:100%;
+    vertical-align: middle;
+} */
+
+#img1{
+
+ 
+    width:100%;
+    vertical-align: middle;
+}
+
+    /* #img{
+        height:230px;
+    } */
+
+
+#display  .col-md-3  img{
+    height:240px;
+  }
+
+  #display .col-md-3  .well{
+    height:410px;
+  }
+
+  h5{
+
+    position: relative;
+    top:60px;
+    color:white;
+    text-align: center;
+    font-size: 18px;
+  
+   
+  }
+
+  a{
+
+    position: relative;
+    top:40px;
+  }
+
+
+
+/* .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+} */
+
+
+#we{
+   height: 440px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #4e5d6c;
+    border: 1px solid transparent;
+    /* border-radius: 0; */
+    box-shadow: inset 0 5px 5px black;
+}
+
+.navbar-brand{
+
+
+    position: relative;
+    top:-2px;
+}
+
+h2{
+
+    color:white;    
+}
+
+#plot{
+
+    color: #ffffff;
+}
+
+#img-1,#img-2,#img-3,#img-4,
+#img-5,#img-6,#img-7,#img-8,
+#img-9{
+
+
+    height: 420px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #4e5d6c;
+    border: 1px solid transparent;
+    /* border-radius: 0; */
+    box-shadow: inset 0 5px 5px black;
+   
+    
+}
+/* #img-1{ */
+
+    /* position: relative;
+    left:-20px;
+} */
+
+#img-2{
+
+    position: relative;
+    left:10px;
+}
+
+#img-3{
+
+    position: relative;
+    left:20px;
+}
+
+
+#img-4{
+
+    position: relative;
+    left:30px;
+}
+/* 
+#img-5{
+
+    position: relative;
+    left:30px;
+} */
+
+#img-6{
+
+    position: relative;
+    left:10px;
+}
+
+#img-7{
+
+    position: relative;
+    left:20px;
+}
+
+#img-8{
+
+    position: relative;
+    left:30px;
+}
+
+
+#img1-1,#img1-2,#img1-3,#img1-4,
+#img1-5,#img1-6,#img1-7,#img1-8,
+#img1-9{
+
+    height: 240px;
+    width: 100%;
+
+}
+
+/* #display{
+   
+} */
+/* #we{
+    display: inline;
+} */
+
+
+.col-md-3{
+
+    display: inline-block;
+    width:25%;
+
+}
+
+#pos{
+
+
+    height: 500px;
+    padding:5px;
+    margin-bottom: 20px;
+  
+    border: 1px solid transparent;
+    /* border-radius: 0; */
+    box-shadow:   0px 0px 5px 5px #009966;
+
+    position: relative;
+    top:-25px;
+}
+
+h2{
+
+    color:yellow;
+    text-shadow: 2px 2px #ff0000;
+    text-decoration: bold;
+    position: relative;
+    top:-25px;
+}
+
+.list-group{
+
+    border: 1px solid transparent;
+}
+
+    /* #row1{
+
+        border: 1px solid #ff0000;
+    } */
+
+
+    .jumbotron{
+ 
+
+background-color:   #330066;
+
+position: relative;
+top:20px;
+
+    }
+
+.list-group-item{
+    background-color:#99FF99;
+    color: #CC3333;
+    font: arial, sans-serif;
+    position: relative;
+    top:-18px;
+    text-shadow: 2px 2px #99FF00;
+}
+
+#plot{
+
+    color: #CC3333;
+    font: arial, sans-serif;
+    text-shadow: 2px 2px black;
+    font-size: 20px;
+
+}
+
+#a2{
+
+    position: relative;
+    left: 10px;
+    
+
+}
+
+
+#movie2,#movie{
+    /* color:black; */
+    font-size: 30px;
+
+    text-shadow: 2px 2px #FF0000;
+    color:black;
+    height:40px;
+    position: relative;
+    top:-4px;
+  
+}
+
+#movie{
+    height: 70px;
+    position: relative;
+    top:8px;
+}
+
+
+#search{
+
+    color:white;
+}
+
+
+
+
+#im{
+
+height: 400px;
+position: relative;
+top:0px;
+
+}
+
+
+#a{
+
+    position: relative;
+    left:-280px;
+    /* background: #6699FF; */
+     background-color: #660066;
+     /* background-color: #660099; */
+    color: #fff;
+    border-radius: 6px!important;
+    padding: 6px 35px 6px 15px;
+    border: none;
+    font-size: .9rem;
+    height: 40px;
+    transition: all .18s ease;
+    color: white;
+    box-shadow:  inset  0px 0px 2px 2px #6633CC;
+}
+
+
+
+
+
+
+.search-input-box{
+    color: #0c0b21;
+}
+
+
+::placeholder{
+
+    color:#00CC99;
+    font-size: 15px;
+
+}
+
+
+#display2{
+
+position: relative;
+
+top:-130px;
+
+}
+
+#m{
+
+    text-shadow: 2px 2px #FF0000;
+}
+
+#we{
+
+    position: relative;
+    top:-130px;
+
+} 
+
+h4{
+
+    position: relative;
+    top:40px;
+    color:white;
+    text-align: center;
+    font-size: 18px;
+}

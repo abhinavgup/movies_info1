@@ -1,0 +1,13 @@
+#display img, #display1 img{
+  width:100%;
+}
+
+@media(min-width:960px){
+  #display .col-md-3 .well{
+    height: 390px;
+  }
+
+  #display  .col-md-3 img{
+    height:240px;
+  }
+}
