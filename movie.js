@@ -160,7 +160,7 @@ output += `
 
  <a id='a1' href ="https://www.imdb.com/title/${val.imdbID}" class="btn btn-primary"><b>View IMDB</b></a>
 
- <a  id='a2' href="movie.html"  class="btn btn-danger"><b>Go Back To Search</b></a>
+ <a  id='a2' href="https://movies-info1.abhinavgupt57.now.sh/"  class="btn btn-danger"><b>Go Back To Search</b></a>
 
 
  </div>
